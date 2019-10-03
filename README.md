@@ -1,0 +1,1 @@
+"#Composer-artwork"
